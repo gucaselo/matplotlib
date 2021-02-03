@@ -8,7 +8,7 @@ Pymaceuticals is a pharmaceutical company based out of San Diego, CA. This compa
 
 
 ## Script
-Using Pymaceuticals animal study record which consisted of 249 mice with SCC tumor growth that were treated over a course of 45 days through a variety of drug regimens. Pymaceuticals' drug of interest, Capomulin was compared with other treatment regiments. A technical report was created based on multiple plots using the data collected using `Python`, `Pandas`, `Numpy`, `matplotlib.pyplot` and `scipy.stats' libraries.
+Using Pymaceuticals animal study record which consisted of 249 mice with SCC tumor growth that were treated over a course of 45 days through a variety of drug regimens. Pymaceuticals' drug of interest, Capomulin was compared with other treatment regiments. A technical report was created based on multiple plots using the data collected using `Python`, `Pandas`, `Numpy`, `matplotlib.pyplot` and `scipy.stats` libraries.
 
 ## Results
 The final report includes the following:
